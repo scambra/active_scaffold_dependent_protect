@@ -1,0 +1,3 @@
+en:
+  active_scaffold:
+    cant_destroy_record: "{{record}} can't be destroyed"
