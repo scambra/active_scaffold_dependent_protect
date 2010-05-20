@@ -1,3 +1,5 @@
+It's included in ActiveScaffold, so it's only needed for rails-2.3 branch and previous ones.
+
 Adds an authorized_for_destroy? method which check all associations to forbid destroy action when an association with dependent protect is not empty.
 
 Instalation
